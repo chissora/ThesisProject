@@ -1,4 +1,12 @@
 # local package
+numpy
+pandas
+scikit-learn==1.5.2
+matplotlib
+seaborn
+matplotlib
+jupyter
+mlflow==2.17.0
 -e .
 
 # external requirements
